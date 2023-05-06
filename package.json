@@ -1,0 +1,16 @@
+{
+  "name": "cli-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "todos": "./index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "denis-the-menace",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
