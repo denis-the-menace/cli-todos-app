@@ -1,3 +1,5 @@
+npm install -g cli-todos-app
+
   -h, --help                display help for command.
 
 Commands:
